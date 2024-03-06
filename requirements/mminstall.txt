@@ -1,0 +1,5 @@
+mmpretrain>=1.0.0
+mmcv>=2.0.0,<2.1.0
+mmengine>=0.1.0,<1.0.0
+mmrazor==1.0.0
+mmsegmentation==1.2.2
